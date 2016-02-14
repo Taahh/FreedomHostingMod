@@ -1,6 +1,2 @@
-name: FreedomHostingMod
-main: com.taahthephoenix.freedomhostingmod.FreedomHostingMod
-version: 1.0
-description: The new eye to freedom!
-
-# plugin.yml no longer supports commands
+## YAML Template.
+---
